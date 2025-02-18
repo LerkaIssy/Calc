@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\VS\\repos\\calc\\calc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3148E3E0-0F31-477E-B869-FBFB9F54EB19}|Tests\\Tests.csproj|d:\\vs\\repos\\calc\\calc\\tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148E3E0-0F31-477E-B869-FBFB9F54EB19}|Tests\\Tests.csproj|solutionrelative:tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3148E3E0-0F31-477E-B869-FBFB9F54EB19}|Tests\\Tests.csproj|d:\\vs\\repos\\calc\\calc\\tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3148E3E0-0F31-477E-B869-FBFB9F54EB19}|Tests\\Tests.csproj|solutionrelative:tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88807FB9-1334-49A0-BE78-633F9A19927B}|calc\\calc.csproj|d:\\vs\\repos\\calc\\calc\\calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88807FB9-1334-49A0-BE78-633F9A19927B}|calc\\calc.csproj|solutionrelative:calc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88807FB9-1334-49A0-BE78-633F9A19927B}|calc\\calc.csproj|d:\\vs\\repos\\calc\\calc\\calc\\calc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88807FB9-1334-49A0-BE78-633F9A19927B}|calc\\calc.csproj|solutionrelative:calc\\calc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calc",
+              "DocumentMoniker": "D:\\VS\\repos\\calc\\calc\\calc\\calc.csproj",
+              "RelativeDocumentMoniker": "calc\\calc.csproj",
+              "ToolTip": "D:\\VS\\repos\\calc\\calc\\calc\\calc.csproj",
+              "RelativeToolTip": "calc\\calc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T18:14:17.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\VS\\repos\\calc\\calc\\Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "Tests\\Test1.cs",
+              "ToolTip": "D:\\VS\\repos\\calc\\calc\\Tests\\Test1.cs",
+              "RelativeToolTip": "Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:57:59.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\VS\\repos\\calc\\calc\\Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Tests\\MSTestSettings.cs",
+              "ToolTip": "D:\\VS\\repos\\calc\\calc\\Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:57:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VS\\repos\\calc\\calc\\calc\\Program.cs",
               "RelativeDocumentMoniker": "calc\\Program.cs",
               "ToolTip": "D:\\VS\\repos\\calc\\calc\\calc\\Program.cs",
               "RelativeToolTip": "calc\\Program.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAwwJEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAwwKYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T17:33:16.424Z",
               "EditorCaption": ""

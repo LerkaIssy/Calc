@@ -1,6 +1,6 @@
 ﻿namespace calc
 {
-    internal class Program
+    public class Calculate
     {
         static void Main(string[] args)
         {
@@ -93,7 +93,7 @@
         }
 
         // Баги: случайное округление результата
-        static double Add(List<double> numbers)
+        public static double Add(List<double> numbers)
         {
             double result = 0;
             foreach (double number in numbers)
@@ -104,7 +104,7 @@
         }
 
         // Баги: случайное округление результата
-        static double Subtract(List<double> numbers)
+        public static double Subtract(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -115,7 +115,7 @@
         }
 
         // Баги: случайное округление результата
-        static double Multiply(List<double> numbers)
+        public static double Multiply(List<double> numbers)
         {
             double result = 1;
             foreach (double number in numbers)
@@ -126,7 +126,7 @@
         }
 
         // Баги: деление на ноль
-        static double Divide(List<double> numbers)
+        public static double Divide(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -141,7 +141,7 @@
         }
 
         // Баги: случайное округление результата
-        static double Power(List<double> numbers)
+        public static double Power(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -152,7 +152,7 @@
         }
 
         // Баги: извлечение корня из отрицательного числа
-        static double Root(List<double> numbers)
+        public static double Root(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -163,11 +163,12 @@
                 }
                 result = Math.Sqrt(result);
             }
+
             return Math.Round(result, 2);
         }
 
         // Баги: некорректное вычисление процента
-        static double Percent(List<double> numbers)
+        public static double Percent(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -177,8 +178,7 @@
             return Math.Round(result, 2);
         }
 
-        // Баги: логарифм отрицательного числа
-        static double Log(List<double> numbers)
+        public static double Log(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -193,7 +193,7 @@
         }
 
         // Баги: некорректное вычисление синуса
-        static double Sin(List<double> numbers)
+        public static double Sin(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
@@ -204,7 +204,7 @@
         }
 
         // Баги: котангенс нуля
-        static double Ctg(List<double> numbers)
+        public static double Ctg(List<double> numbers)
         {
             double result = numbers[0];
             for (int i = 1; i < numbers.Count; i++)
