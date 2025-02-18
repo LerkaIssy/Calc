@@ -1,0 +1,15 @@
+D:\VS\repos\calc\calc\calc\bin\Debug\net8.0\calc.exe
+D:\VS\repos\calc\calc\calc\bin\Debug\net8.0\calc.deps.json
+D:\VS\repos\calc\calc\calc\bin\Debug\net8.0\calc.runtimeconfig.json
+D:\VS\repos\calc\calc\calc\bin\Debug\net8.0\calc.dll
+D:\VS\repos\calc\calc\calc\bin\Debug\net8.0\calc.pdb
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.AssemblyInfoInputs.cache
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.AssemblyInfo.cs
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.csproj.CoreCompileInputs.cache
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.sourcelink.json
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.dll
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\refint\calc.dll
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.pdb
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\calc.genruntimeconfig.cache
+D:\VS\repos\calc\calc\calc\obj\Debug\net8.0\ref\calc.dll
